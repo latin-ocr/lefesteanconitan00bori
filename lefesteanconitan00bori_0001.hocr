@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lefesteanconitan00bori_0001.png"; bbox 0 0 2639 3820; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 3780 550 3820">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 3780 563 3820">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 3780 550 3820; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 3801 113 3820; x_wconf 46' lang='lat' dir='ltr'>&amp;A</span> <span class='ocrx_word' id='word_1_2' title='bbox 133 3798 387 3820; x_wconf 39' lang='lat' dir='ltr'>“ff-‘sz.„.⁴</span> <span class='ocrx_word' id='word_1_3' title='bbox 422 3808 441 3809; x_wconf 27' lang='grc' dir='ltr'>η</span> <span class='ocrx_word' id='word_1_4' title='bbox 467 3780 481 3811; x_wconf 52' lang='lat'>⁸:</span> <span class='ocrx_word' id='word_1_5' title='bbox 516 3814 550 3820; x_wconf 24' lang='grc' dir='ltr'>μ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 287 0 2232 3281">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 287 0 2232 3281">
+     <span class='ocr_line' id='line_1_2' title="bbox 287 0 2232 3281; textangle 180"><span class='ocrx_word' id='word_1_6' title='bbox 287 0 2232 3281; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
